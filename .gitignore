@@ -41,7 +41,6 @@ pdfs_to_process/*
 *ocr_response.json
 
 # Generated files
-*.md
 *.tex
 *.aux
 *.lof
