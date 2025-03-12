@@ -31,7 +31,7 @@ The tool preserves images and document structure throughout the conversion proce
 1. Clone this repository or download the script files:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-to-latex-converter.git
+   git clone https://github.com/samuel032khoury/PDF-to-TEX.git pdf-to-latex
    cd pdf-to-latex-converter
    ```
 
